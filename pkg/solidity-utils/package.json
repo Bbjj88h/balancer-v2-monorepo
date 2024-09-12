@@ -28,7 +28,7 @@
     "test-fuzz": "forge test"
   },
   "dependencies": {
-    "@balancer-labs/v2-interfaces": "workspace:*"
+    "@balancer-labs/v2-interfaces": "0.1.0"
   },
   "devDependencies": {
     "@balancer-labs/balancer-js": "workspace:*",
